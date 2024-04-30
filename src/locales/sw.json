@@ -1,0 +1,15 @@
+{
+  "loadingWeather": "Inapakia data ya hali ya hewa...",
+  "Temperature": "Joto",
+  "Feels Like": "Inaonekana Kama",
+  "Humidity": "Unyevu",
+  "Precipitation": "Mvua",
+  "Wind Speed": "Kasi ya Upepo",
+  "Cloud Cover": "Ufunikaji wa Mawingu",
+  "Sunrise": "Jua Kuibuka",
+  "Sunset": "Jua Kuzama",
+  "UV Index": "Kiashiria cha UV",
+  "Date": "Tarehe",
+  "Prediction": "Utabiri",
+  "Weather Forecast": "Utabiri wa hali ya hewa"
+}

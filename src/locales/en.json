@@ -1,0 +1,16 @@
+ {
+    "loadingWeather": "Loading weather data...",
+    "Temperature": "Temperature",
+    "Feels Like": "Feels Like",
+    "Humidity": "Humidity",
+    "Precipitation": "Precipitation",
+    "Wind Speed": "Wind Speed",
+    "Cloud Cover": "Cloud Cover",
+    "Sunrise": "Sunrise",
+    "Sunset": "Sunset",
+    "UV Index": "UV Index",
+    "Date": "Date",
+    "Prediction" : "Prediction",
+    "Weather Forecast" : "Weather Forecast"
+  }
+
